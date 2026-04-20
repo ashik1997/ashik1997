@@ -11,7 +11,7 @@ Senior Full-Stack Developer with 6+ years of experience building secure, scalabl
 * **Database:** MySQL, Query Optimization, Data Modeling
 * **APIs:** RESTful APIs, Payment Gateways, Third-Party Integrations
 * **DevOps:** Linux, cPanel, VPS, Dedicated Server Management
-* **Tools:** Git, GitHub, VS Code, Postman, Trello, Jira
+* **Development & Collaboration Tools:** Git, GitHub, Visual Studio Code (VS Code), Postman, Trello, Jira, ChatGPT, GitHub Copilot
 
 ## 💼 Experience
 

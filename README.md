@@ -70,6 +70,6 @@ Daffodil International University
 
 ## 📫 Connect With Me
 
-* GitHub: github.com/ashik1997
-* LinkedIn: linkedin.com/in/ar-ashik
-* Email: [ashikurashik.sc@gmail.com](mailto:ashikurashik.sc@gmail.com)
+- 💻 GitHub: [ashik1997](https://github.com/ashik1997)
+- 🔗 LinkedIn: [ar-ashik](https://linkedin.com/in/ar-ashik)
+- 📧 Email: [ashikurashik.sc@gmail.com](ashikurashik.sc@gmail.com)

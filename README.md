@@ -7,11 +7,11 @@ Senior Full-Stack Developer with 6+ years of experience building secure, scalabl
 ## 🚀 Tech Stack
 
 * **Backend:** Laravel, PHP, .Net, Java
-* **Frontend:** Vue.js, JavaScript, jQuery, AJAX, Axios, HTML5, CSS3, Bootstrap, Tailwind CSS
-* **Database:** MySQL, Query Optimization, Data Modeling
+* **Frontend:** Vue.js, TypeScript, JavaScript, jQuery, AJAX, Axios, HTML5, CSS3, Bootstrap, Tailwind CSS
+* **Database:** MySQL, PostgerSQL, Query Optimization, Data Modeling
 * **APIs:** RESTful APIs, Payment Gateways, Third-Party Integrations
 * **DevOps:** Linux, cPanel, VPS, Dedicated Server Management
-* **Development & Collaboration Tools:** Git, GitHub, Visual Studio Code (VS Code), Postman, Trello, Jira, ChatGPT, GitHub Copilot
+* **Development & Collaboration Tools:** Git, GitHub, Visual Studio Code (VS Code), Postman, Trello, Jira, ChatGPT, GitHub Copilot, Lovable
 
 ## 💼 Experience
 

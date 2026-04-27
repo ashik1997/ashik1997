@@ -6,7 +6,7 @@ Senior Full-Stack Developer with 6+ years of experience building secure, scalabl
 
 ## 🚀 Tech Stack
 
-* **Backend:** Laravel, PHP, .Net, Java
+* **Backend:** Laravel, PHP, .Net, Java, Node.js
 * **Frontend:** Vue.js, TypeScript, JavaScript, jQuery, AJAX, Axios, HTML5, CSS3, Bootstrap, Tailwind CSS
 * **Database:** MySQL, PostgerSQL, Query Optimization, Data Modeling
 * **APIs:** RESTful APIs, Payment Gateways, Third-Party Integrations

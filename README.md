@@ -1,75 +1,177 @@
-# Ashik — Senior Full-Stack Developer
+# Hi 👋, I'm Ashik
 
-## 👋 About Me
+### 🚀 Senior Full-Stack Developer | Laravel Specialist | SaaS Architect
 
-Senior Full-Stack Developer with 6+ years of experience building secure, scalable, and high-performance web applications using Laravel, PHP, Vue.js, and modern frontend tools. Delivered 100+ projects for local and international clients with strong focus on backend architecture, APIs, database optimization, and deployment.
+### 🏢 Business Owner & Lead Software Engineer at NexGen IT
 
-## 🚀 Tech Stack
+<p align="left">
+Experienced Full-Stack Developer with 6+ years of expertise in building scalable SaaS applications, POS systems, Ecommerce platforms, ERP solutions, Inventory Management Systems, and Enterprise Software using Laravel, Vue.js, PHP, and MySQL.
+</p>
 
-* **Backend:** Laravel, PHP, .Net, Java, Node.js
-* **Frontend:** Vue.js, TypeScript, JavaScript, jQuery, AJAX, Axios, HTML5, CSS3, Bootstrap, Tailwind CSS
-* **Database:** MySQL, PostgerSQL, Query Optimization, Data Modeling
-* **APIs:** RESTful APIs, Payment Gateways, Third-Party Integrations
-* **DevOps:** Linux, cPanel, VPS, Dedicated Server Management
-* **Development & Collaboration Tools:** Git, GitHub, Visual Studio Code (VS Code), Postman, Trello, Jira, ChatGPT, GitHub Copilot, Lovable
+---
 
-## 💼 Experience
+## 👨‍💻 About Me
 
-### Senior Full-Stack Developer — Cosmic IT, Bangladesh
+* 🔥 Senior Full-Stack Developer with 6+ years of experience
+* 🚀 Delivered 100+ successful software projects
+* 🏢 Founder & Business Owner of NexGen IT
+* 💻 Specialized in Laravel, Vue.js, SaaS, POS, Ecommerce & ERP Solutions
+* 📊 Expert in Accounting, Inventory, Reporting & Business Automation Systems
+* 🌐 Experienced in VPS, Dedicated Servers, CI/CD & Cloud Deployment
+* 🔐 Strong focus on Security, Performance Optimization & Scalable Architecture
+* 🤝 Open to Remote Opportunities, Freelance Projects & Business Collaborations
 
-*Jul 2023 – Present*
+---
 
-* Led enterprise application development using Laravel
-* Improved API response time by 35%
-* Reduced database load by 30%
-* Conducted code reviews and mentored developers
+## 🚀 What I Build
 
-### Senior Full-Stack Developer — Shopno Software Farm, Finland
+✔ SaaS Applications
 
-*Mar 2021 – Oct 2024*
+✔ POS & Ecommerce Platforms
 
-* Built secure full-stack solutions for EU clients
-* Maintained 99.9% uptime
-* Led client communication and technical planning
+✔ ERP Solutions
 
-### Web Developer — SoftCare IT, Bangladesh
+✔ Accounting & Financial Systems
 
-*Apr 2017 – 2021*
+✔ Inventory Management Systems
 
-* Developed dashboards, auth systems, CRUD apps
-* Integrated third-party services and APIs
+✔ School Management Systems
 
-## 🌟 Featured Projects
+✔ CRM Solutions
 
-* **Enterprise POS & Inventory Management System**
-* **Real-Time Food Ordering & Delivery Platform**
-* **Multi-Institution School Management System**
-* **Scalable E-Commerce & Marketplace Platform**
+✔ Business Automation Software
 
-## 🎓 Education
+✔ REST APIs & Third-Party Integrations
 
-**B.Sc. in Software Engineering**
-Daffodil International University
+✔ Multi-Tenant Enterprise Applications
 
-## 🏆 Achievements
+---
 
-* Second Runner-Up — Project Exhibition Fair (2019)
-* Champion — Semester Project Fair (2019)
-* Runner-Up — Project Exhibition Fair (2017)
-* Third Place — UI & UX Design Competition (2016)
+## 🛠️ Tech Stack
 
-## 📜 Certifications
+### Backend
 
-* Laravel 12 & Vue 3 Mastery
-* Cyber Security Certification
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
+![Multi Tenant](https://img.shields.io/badge/Multi--Tenant_SaaS-FF9800?style=for-the-badge)
+![RBAC](https://img.shields.io/badge/RBAC-3F51B5?style=for-the-badge)
 
-## 🌐 Languages
+---
 
-* Bangla — Native
-* English — Professional
+### Frontend
 
-## 📫 Connect With Me
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge\&logo=vue.js\&logoColor=4FC08D)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
 
-- 💻 GitHub: [ashik1997](https://github.com/ashik1997)
-- 🔗 LinkedIn: [ar-ashik](https://linkedin.com/in/ar-ashik)
-- 📧 Email: [ashikurashik.sc@gmail.com](ashikurashik.sc@gmail.com)
+---
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Query Optimization](https://img.shields.io/badge/Query_Optimization-4CAF50?style=for-the-badge)
+
+---
+
+### DevOps & Infrastructure
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-673AB7?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge\&logo=cloudflare\&logoColor=white)
+![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge)
+
+---
+
+### Development Tools
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge)
+![AI Assisted Development](https://img.shields.io/badge/AI_Assisted_Development-10A37F?style=for-the-badge)
+
+---
+
+## 📌 Featured Projects
+
+### 🛒 Multi-Tenant POS & Ecommerce SaaS
+
+* Multi-Tenant Architecture
+* Ecommerce Integration
+* Multi-Store Inventory Management
+* Accounting & Financial Reports
+* Customer & Supplier Due Management
+* SMS Notifications
+* Courier Integration
+* Payment Gateway Integration
+
+### 🏪 Enterprise POS & Inventory Management
+
+* Sales & Purchase Management
+* Real-Time Inventory Tracking
+* Financial Reporting
+* Role & Permission Management
+
+### 🎓 School Management ERP
+
+* Student Management
+* Attendance System
+* Payroll & HR
+* Examination & Results
+
+### 🍔 Food Ordering & Delivery Platform
+
+* Real-Time Order Tracking
+* Delivery Management
+* Secure Payment Processing
+
+---
+
+## 📈 GitHub Statistics
+
+![Ashik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashik1997\&show_icons=true\&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashik1997\&layout=compact)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashik1997)
+
+---
+
+## 🏆 Professional Highlights
+
+🏅 6+ Years Professional Experience
+
+🏅 100+ Projects Successfully Delivered
+
+🏅 99.9% Production Uptime Achievement
+
+🏅 SaaS & Enterprise Application Specialist
+
+🏅 Laravel & Vue.js Expert
+
+🏅 Business Automation Solution Architect
+
+🏅 Performance Optimization & Database Tuning Specialist
+
+---
+
+## 🌍 Connect With Me
+
+📧 Email: [ashikurashik.sc@gmail.com](mailto:ashikurashik.sc@gmail.com)
+
+💼 LinkedIn: https://linkedin.com/in/ar-ashik
+
+💻 GitHub: https://github.com/ashik1997
+
+🏢 Company: NexGen IT
+
+---
+
+### 🚀 Building Scalable Software That Solves Real Business Problems.

@@ -2,7 +2,6 @@
 
 ### 🚀 Senior Full-Stack Developer | Laravel Specialist | SaaS Architect
 
-### 🏢 Business Owner & Lead Software Engineer at NexGen IT
 
 <p align="left">
 Experienced Full-Stack Developer with 6+ years of expertise in building scalable SaaS applications, POS systems, Ecommerce platforms, ERP solutions, Inventory Management Systems, and Enterprise Software using Laravel, Vue.js, PHP, and MySQL.

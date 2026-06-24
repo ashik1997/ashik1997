@@ -133,15 +133,6 @@ Experienced Full-Stack Developer with 6+ years of expertise in building scalable
 
 ---
 
-## 📈 GitHub Statistics
-
-![Ashik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashik1997\&show_icons=true\&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashik1997\&layout=compact)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashik1997)
-
----
 
 ## 🏆 Professional Highlights
 

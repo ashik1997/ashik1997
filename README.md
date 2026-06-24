@@ -13,7 +13,6 @@ Experienced Full-Stack Developer with 6+ years of expertise in building scalable
 
 * 🔥 Senior Full-Stack Developer with 6+ years of experience
 * 🚀 Delivered 100+ successful software projects
-* 🏢 Founder & Business Owner of NexGen IT
 * 💻 Specialized in Laravel, Vue.js, SaaS, POS, Ecommerce & ERP Solutions
 * 📊 Expert in Accounting, Inventory, Reporting & Business Automation Systems
 * 🌐 Experienced in VPS, Dedicated Servers, CI/CD & Cloud Deployment

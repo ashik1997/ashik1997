@@ -160,7 +160,6 @@ Experienced Full-Stack Developer with 6+ years of expertise in building scalable
 
 💻 GitHub: https://github.com/ashik1997
 
-🏢 Company: NexGen IT
 
 ---
 
